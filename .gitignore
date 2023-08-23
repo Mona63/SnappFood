@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/src/SnappFood.Core/obj
+/src/SnappFood.Infrastructure/obj
+/src/SnappFood.Core/bin/Debug
+/src/SnappFood.Infrastructure/bin/Debug
+/src/SnappFood.API/bin/Debug
+/src/SnappFood.API/obj
+/src/SnappFood.Model/bin/Debug
+/src/SnappFood.Model/obj
+/test/SnappFood.Test/bin/Debug/
+/test/SnappFood.Test/obj
+/.vs/SnappFood/DesignTimeBuild
+/.vs/SnappFood/config
+/src/SnappFood.Service/bin/Debug/
+/src/SnappFood.Service/obj
+/src/SnappFood.API/SnappFood.API.csproj.user
+/test/SnappFood.Test/SnappFood.Test.csproj.user
